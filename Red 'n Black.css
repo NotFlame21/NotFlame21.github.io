@@ -247,16 +247,16 @@
         margin-top: 0px;
         padding-top: 2.5px;
         background-color: var(--color1);
-        border-bottom: 1px solid var(--accent-color);
+        border-bottom: 1.5px solid var(--accent-color);
     }
     .titleBar-AC4pGV .wordmarkWindows-1v0lYD::after {
         content: "Festive Flame";
-        font-size: 20px;
+        font-size: 25px;
         font-family: Arial;
         font-weight: 600;
         color: var(--accent-color);
         position: relative;
-        bottom: 3px;
+        bottom: 2px;
     }
     .wordmarkWindows-1v0lYD svg {
         color: var(--accent-color);
@@ -391,9 +391,6 @@
     .hasMore-3e72_v {
         border: 1px solid var(--accent-color);
         color: var(--accent-color);
-    }
-    .scrollbarGhostHairline-D_btXm {
-        background-color: var(--color2) ;
     }
 
 /* Lists */
