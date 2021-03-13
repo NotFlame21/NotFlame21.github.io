@@ -251,12 +251,12 @@
     }
     .titleBar-AC4pGV .wordmarkWindows-1v0lYD::after {
         content: "Festive Flame";
-        font-size: 15px;
+        font-size: 20px;
         font-family: Arial;
         font-weight: 600;
         color: var(--accent-color);
         position: relative;
-        bottom: 2px;
+        bottom: 3px;
     }
     .wordmarkWindows-1v0lYD svg {
         color: var(--accent-color);
@@ -391,6 +391,9 @@
     .hasMore-3e72_v {
         border: 1px solid var(--accent-color);
         color: var(--accent-color);
+    }
+    .scrollbarGhostHairline-1mSOM1 {
+        background-color: var(--color2) !important;
     }
 
 /* Lists */
